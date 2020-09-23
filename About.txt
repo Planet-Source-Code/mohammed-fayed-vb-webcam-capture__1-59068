@@ -1,0 +1,15 @@
+Capture WebCam and Save Picture in JPEG format .
+
+This Code is a collection of some code from this site from vb, c# 
+and connverted to be core VB6 code .
+
+most code is commented in English .
+
+I love vb .... 
+I love this site .....
+so this code  for you and for this site
+
+Mohammed Samir Fayed 
+ms_fayed@gawab.com
+ms_fayed@hotmail.com
+
